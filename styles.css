@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    margin: 0;
+    overflow: hidden;
+    background: transparent;
+}
+
+#bouncing-image {
+    position: absolute;
+    width: 100px; /* Adjust as needed */
+    height: 100px;
+}
